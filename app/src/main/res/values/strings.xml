@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LKeyring</string>
+    <string name="title_add_key">添加钥匙</string>
+    <string name="title_search_key">查询钥匙</string>
+    <string name="hint_input_key_name">请输入钥匙名</string>
+</resources>

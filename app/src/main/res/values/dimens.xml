@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="statu_bar_size">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dial_diameter">240dp</dimen>
+    <dimen name="pointer_diameter">160dp</dimen>
+    
+    <integer name="animation_duration">400</integer>
+</resources>
